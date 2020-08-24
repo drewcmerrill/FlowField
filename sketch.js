@@ -11,7 +11,7 @@ var gDirection = 1;
 var bDirection = 1;
 
 function setup() {
-	createCanvas(400, 400);
+	createCanvas(500, 500);
 	cols = floor(width/scl);
 	rows = floor(height/scl);
 	fr = createP('');
